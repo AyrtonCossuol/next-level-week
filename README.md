@@ -43,3 +43,22 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela Rocketse
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
 </p>
+
+## Tecnologias
+
+As seguintes ferramentas usadas na criação do projeto:
+
+- [Expo][expo]
+- [Node.js][nodejs]
+- [React][reactjs]
+- [React Native][rn]
+- [TypeScript][typescript]
+
+
+
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
